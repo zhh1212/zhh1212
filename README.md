@@ -1,6 +1,8 @@
 ### Hi there 👋
 - 📕 I'm currently studying at University of Melbourne (Bachelor of Science)
 - 📚 Major in Data Science
+- https://img.shields.io/badge/{TEXT}-{1877F2}?style=for-the-badge&logo={Facebook}&logoColor=white
+
 <!--
 **zhh1212/zhh1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
