@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 📕 I'm currently studying at University of Melbourne (Bachelor of Science)
 - 📚 Major in Data Science
-- ![alt text](http://https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white/to/img.png)
+- ![alt text](http://https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 
 
 <!--
