@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 📕 I'm currently studying at University of Melbourne (Bachelor of Science)
 - 📚 Major in Data Science
-- ![alt text](http://http://i.imgur.com/P3YfQoD.png/to/img.png)
+- ![alt text](http://http://i.imgur.com/P3YfQoD.png)
 
 
 <!--
