@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm John
 - 📕 I'm currently studying at University of Melbourne (Bachelor of Science)
 - 📚 Major in Data Science
-<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
 <!--
