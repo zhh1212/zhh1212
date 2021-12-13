@@ -1,9 +1,8 @@
 ### Hi there 👋 I'm John
 - 📕 I'm currently studying at University of Melbourne (Bachelor of Science)
 - 📚 Major in Data Science
-### Click buttons below to contact me:
-[<img alt="alt_text" width="40px" src="image/linkin.png" />](https://www.linkedin.com/in/huan-zhang-741b1820a/) &nbsp;
-[<img alt="hz140319@gmail.com" width="40px" src="image/gmail.png" />]  &nbsp;
+- [<img alt="alt_text" width="15" height="15" src="image/linkin.png" />](https://www.linkedin.com/in/huan-zhang-741b1820a/)<a href="https://www.linkedin.com/in/huan-zhang-741b1820a/)">LinkedIn Profile</a>
+- [<img alt="alt_text" width="40px" src="image/gmail.png" />]  &nbsp;
 
 
 <!--
