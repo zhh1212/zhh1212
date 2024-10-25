@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm John
 - 📕 I'm currently studying at University of Melbourne (Master of Data Science)
 - 📚 Major in Data Science
-- [<img alt="alt_text" width="16" height="16" src="image/linkin.png" />](https://www.linkedin.com/in/huan-zhang-741b1820a/)<a href="https://www.linkedin.com/in/huan-zhang-741b1820a/">&nbsp; LinkedIn Profile</a>
+- [<img alt="alt_text" width="16" height="16" src="image/linkin.png" />](https://www.linkedin.com/in/huan-z-741b1820a/)<a href="https://www.linkedin.com/in/huan-zhang-741b1820a/">&nbsp; LinkedIn Profile</a>
 
 <!--
 **zhh1212/zhh1212** is a ✨ _special_ ✨ repository becau
